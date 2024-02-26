@@ -1,0 +1,7 @@
+
+*Place a bet and a twentieth of the bet will become your base return
+*Seven cards in order of ascending value will be placed in front of you
+*You can choose to 'retreat' causing you to take your total return without making another move
+*You can choose to 'press' and take flip one card from low to high
+*The value of this card is multiplied by the base return and added to the total return
+*If you flip a face card you will instantlly lose money proportionate to (base return-bet)

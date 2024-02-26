@@ -1,0 +1,14 @@
+lesser healing potion-c1.healthGain-20-7-r
+healing potion-c1.healthGain-40-11-r
+greater healing potion-c1.healthGain-100-15-r
+stick-c3.attackPower-4-3-r
+sword-c3.attackPower-10-7-r
+claymore-c3.attackpower-20-17-x
+excalibur-c3.attackPower-50-NS-x
+corrosive potion-e1.instaDam-30-6-r
+hand grenade-e1.instaDam-60-14-r
+The Holy Hand Grenade of Antioch-e1.instaDam-269-74-x
+soylent-e2.damDebuff-4-5-r
+HealthSwapPotion-special-combat-NS-x
+MaxHPup-special-any-23-r
+FullHealingPotion-special-any-20-x

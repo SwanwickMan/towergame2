@@ -1,0 +1,3 @@
+
+*guess the number if you get it right you get a prise 
+*100 coins per try

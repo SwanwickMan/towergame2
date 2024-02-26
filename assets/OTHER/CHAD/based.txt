@@ -1,0 +1,11 @@
+#ROOM: Random Encounter
+def randomEncounter(statListC): #charStatsC = randomEncounter(charStatsC)
+    asciiPrint("Assets\\CHAD\\ascii.txt")
+    print("riddle me this\n when threatened I cry six million\nfrom the pentagon I take billions\nWhat am I?")
+    if valInput(["jew","gypsy","your mother","i shant answer"]) == "jew":
+        print("correct")
+        statListC[4] += 64
+    else:
+        print("perish, shill")
+        statListC[1] = 1
+        print("you barely escape with your life")
